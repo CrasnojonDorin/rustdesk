@@ -1,4 +1,4 @@
-package md.edi.isconnect
+package com.carriez.flutter_hbb
 
 /**
  * Handle events from flutter
