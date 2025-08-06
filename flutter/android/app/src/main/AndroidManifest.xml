@@ -26,6 +26,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="ISConnect"
         android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true">
 
         <receiver
