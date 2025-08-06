@@ -128,8 +128,6 @@ dependency_overrides:
 # rerun: flutter pub run flutter_launcher_icons
 flutter_icons:
   image_path: "../res/icon.png"
-  adaptive_icon_background: "../res/icon.png"
-  adaptive_icon_foreground: "../res/icon.png"
   remove_alpha_ios: true
   android: true
   ios: true
